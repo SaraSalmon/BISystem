@@ -1,4 +1,4 @@
-# BI System for Sales Department - Data Engineer
+# BI System for Sales Department 
 
 This project is a technical test in Data Engineering aimed at the design and implementation of a Business Intelligence (BI) system for decision-making in a company’s purchasing department. The system should provide both financial and operational analyses related to suppliers, using purchasing data and exchange rates.
 
